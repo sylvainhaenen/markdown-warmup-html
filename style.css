@@ -1,0 +1,28 @@
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: cornflowerblue;
+}
+h2 {
+    text-decoration: underline;
+}
+.liunordered {
+    background-color: darkmagenta;
+}
+.liordered {
+    background-color: darkorange;
+}
+.liwili {
+    background-color: mediumpurple;
+}
+.img1 {
+    width: 300px;
+    padding: 10px;
+    border: 3px;
+    margin: 100px;
+}
+.img2{
+    width: 300px;
+    padding: 10px;
+    border: 3px;
+    margin: 100px;
+}
